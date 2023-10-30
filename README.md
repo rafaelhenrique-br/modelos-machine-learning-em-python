@@ -1,2 +1,2 @@
-# modelos-machine-learning-crioterapia-em-python
-Publicação de um modelo de Machine Learning analisando casos de crioterapia
+# modelos-machine-learning-em-python
+Publicação de um modelo de Machine Learning analisando diversos casos 
